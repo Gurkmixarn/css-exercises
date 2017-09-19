@@ -1,0 +1,21 @@
+#aDivAttribute{
+    font-size: 25px;
+}
+.myFirstClass{
+    font-size:30px;
+}
+a[href^="https"]{
+    color:green;
+}
+a[href$="Selector"]
+{
+    color: yellow;
+}
+a[href*="css-tricks"]
+{
+    color: black;
+}
+a[href$="html"]
+{
+    color: cyan;
+}
